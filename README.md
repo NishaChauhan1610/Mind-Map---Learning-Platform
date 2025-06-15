@@ -1,4 +1,4 @@
-# Mind Map- Learning Platform Project Overview
+![image](https://github.com/user-attachments/assets/b36743e5-1032-4797-a749-d27e06a46239)# Mind Map- Learning Platform Project Overview
 
 - **Repository**: Mind Map - Learning Platform  
 - **Course**: Software Engineering – SEMTZC344 
@@ -26,7 +26,7 @@ Mind Map isn’t just solving an educational problem—it’s building a bridge 
 | Nisha Chauhan    | 2023lm70129      | 2023lm70129@wilp.bits-pilani.ac.in | Project Manager & Programmer  |
 | Kaviya R         | 2023lm70130      | 2023lm70130@wilp.bits-pilani.ac.in      | Technical Analyst & Programmer    |
 | Sharnithaa S A   | 2023LM70132       | 2023lm70132@wilp.bits-pilani.ac.in     | Programmer & Technical Analyst |
-| SRIVATHSA D RAGHUNATHA RAO D H | [Enter No] | [Enter Email] | [Enter Roles]                 |
+| SRIVATHSA D RAGHUNATHA RAO D H | [2023lm70128] | [2023lm70128@wilp.bits-pilani.ac.in] | [User Researcher role and Tester]                 |
 | KALAIARASI L     | [Enter No]       | [Enter Email]       | [Enter Roles]                 |
 
 ⚠️ Each member should update their registration number, BITS email ID, and selected roles from the options listed below:
