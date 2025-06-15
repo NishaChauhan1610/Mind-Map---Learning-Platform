@@ -23,7 +23,7 @@ Mind Map isn’t just solving an educational problem—it’s building a bridge 
 
 | Name             | Registration No. | Email              | Roles                        |
 |------------------|------------------|---------------------|-------------------------------|
-| Nisha Chauhan    | 2023lm70129      | 2023lm70129@wilp.bits-pilani.ac.in       | Project Manager & Programmer  |
+| Nisha Chauhan    | 2023lm70129      | 2023lm70129@wilp.bits-pilani.ac.in | Project Manager & Programmer  |
 | Kaviya R         | [Enter No]       | [Enter Email]       | [Enter Roles]                 |
 | Sharnithaa S A   | [Enter No]       | [Enter Email]       | [Enter Roles]                 |
 | SRIVATHSA D RAGHUNATHA RAO D H | [Enter No] | [Enter Email] | [Enter Roles]                 |
